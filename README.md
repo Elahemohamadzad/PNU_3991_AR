@@ -11,33 +11,33 @@ PNU_3991
         <th>روز</th>
     </tr>
     <tr>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">کلاس اصول طراحی کامپایلر</a></th>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">کلاس سیگنالهاوسیستمها</a></th>
-        <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >کلاس نظريه زبانهاوماشين ها </a></th>
+        <th >کلاس اصول طراحی کامپایلر</th>
+        <th >کلاس سیگنالهاوسیستمها</th>
+        <th >کلاس نظريه زبانهاوماشين ها</th>
         <th></th>
         <th></th>
         <th>شنبه</th>
     </tr>
     <tr>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">تمرین برنامه نویسی</a></th>
+        <th >تمرین برنامه نویسی</th>
         <th ></th>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">مطالعه دروس</a></th>
+        <th >مطالعه دروس</th>
         <th></th>
         <th ></th>
         <th>یک شنبه</th>
     </tr>
     <tr>
-        <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods" >کلاس جبرخطی کاربردی</a> </th>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">کلاس مهندسی نرم افزار1وانقلاب اسلامی</a></th>
-        <th><a  href="https://alirazavi-edu.github.io/PNU_3991/_BSc/UserInterfaceDesgin/index.html"></a></th>
-        <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">مطالعه دروس</a></th>
+        <th >کلاس جبرخطی کاربردی</th>
+        <th >کلاس مهندسی نرم افزار1وانقلاب اسلامی</th>
+        <th></th>
+        <th>مطالعه دروس</th>
         <th ></th>
         <th>دوشنبه</th>
     </tr>
     <tr>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">تمرین برنامه نویسی</a></th>
+        <th >تمرین برنامه نویسی</th>
         <th ></th>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">مطالعه دروس</a></th>
+        <th >مطالعه دروس</th>
         <th></th>
         <th ></th>
         <th>سه شنبه</th>
@@ -45,17 +45,17 @@ PNU_3991
     <tr>
         <th ></th>
         <th ></th>
-        <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods" >کلاس امارواحتمال</a> </th>
+        <th >کلاس امارواحتمال</th>
         <th></th>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">حل تمرین</a></th>
+        <th >حل تمرین</th>
         <th>چهارشنبه</th>
     </tr>
     <tr>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">تمرین برنامه نویسی</a></th>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement"></a></th>
-        <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">مطالعه دروس</a></th>
-        <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies"></a></th>
-        <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering"></a></th>
+        <th >تمرین برنامه نویسی</th>
+        <th ></th>
+        <th >مطالعه دروس</th>
+        <th></th>
+        <th></th>
         <th>پنج شنبه</th>
     </tr>
 </table>
