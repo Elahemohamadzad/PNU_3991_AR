@@ -1,9 +1,3 @@
-<video width="320" height="240" controls="controls">
- <source src="wallpaper.mkv" type="video/mp4" />
- <source src="wallpaper.mkv" type="video/ogg" />
- Your browser does not support the video element.
-</video>
-
 
 # PNU_3991_AR
 ---------
