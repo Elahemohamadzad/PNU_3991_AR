@@ -8,7 +8,7 @@
  
  ---
 - [github](https://github.com/elahemohamadzad/)
-- [PNU_3991_AR](https://elahemohamadzad.github.io/PNU_3991_AR) 
+- [PNU_3991_AR](https://github.com/Elahemohamadzad/PNU_3991_AR/blob/main/README.md) 
 - [resume](https://elahemohamadzad.github.io/elahemohamadzade.github.io/)
 - [SOP](https://elahemohamadzad.github.io/SOP/)
 
