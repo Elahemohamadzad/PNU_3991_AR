@@ -17,7 +17,7 @@
 
 ##  بخش عمومی
 
-- [ارزیابی رزومه و انگیزه نامه](EM_CV_CheckList_AR_3991.dox)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Elahemohamadzad/PNU_3991_AR/blob/main/General/EM_CV_CheckList_AR_3991.docx)
 
 
 ------------------
